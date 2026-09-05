@@ -19,7 +19,7 @@ Originally sourced from the [City of San Francisco's public open data portal](ht
 
 *Size/Scope*: The raw dataset contained 27 columns and 153,000+ rows. After data cleaning, this was refined to 120,000+ unique incident reports used for analysis.
 
-**4\. Methodology**
+### **4\. Methodology**
 
 **Process Overview:** We first defined the business problem, then cleaned and transformed the data before moving into analysis and interpretation. From there, we developed possible recommendations based on our findings and presented them to conclude the project.
 
