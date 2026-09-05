@@ -1,17 +1,17 @@
-**Data Visualization Project \- 2018 San Francisco Crime Analysis** 
+### **Data Visualization Project \- 2018 San Francisco Crime Analysis** 
 
-**San Francisco Crime Analysis (2018)**  
+### **San Francisco Crime Analysis (2018)**  
 Exploring 2018 crime patterns across San Francisco (SF) to provide insights and inform public safety recommendations
 
-**1\. Project Overview**:
+### **1\. Project Overview**:
 
 Crime report data is a powerful lens for understanding how a city functions day-to-day — where risk concentrates, when it spikes, and how effectively it's addressed. As a mid-cycle project for the COOP Careers Data Analyst Fellowship, I worked in a team of four to explore crime patterns across San Francisco in 2018 through exploratory analysis and data visualization. Using Excel for data cleaning and preparation and Tableau for visualization, we investigated how crime varied by neighborhood, time of day/year, and offense type, along with consistency of case resolution — producing a set of dashboards that make these patterns easy to explore and interpret at a glance.
 
-**2\. Objective**
+### **2\. Objective**
 
 Our objective was to analyze 2018 San Francisco crime data to understand underlying patterns — spatially, temporally, and by offense type — to inform recommendations on resource allocation and public safety planning.
 
-**3\. Dataset:**
+### **3\. Dataset:**
 
 *Source*: \[link\]
 
@@ -42,11 +42,11 @@ While working with the dataset, we noted several limitations that shaped how we 
 
 **Tools Used:** Excel (data cleaning & preparation), Tableau (visualization)
 
-**5\. My Role**
+### **5\. My Role**
 
 I led the spatial and temporal analysis — mapping crime distribution across SF neighborhoods and police districts, and identifying trends by time of day, day of week, and month. I also helped oversee the project more broadly, staying closely involved in the crime-type and case-resolution work to support the team and fully grasp every part of the analysis.
 
-**6\. Key Findings**
+### **6\. Key Findings**
 
 Our analysis surfaced several clear patterns across crime type, timing, and location:
 
@@ -66,7 +66,7 @@ While the dataset shows clear patterns in crime type, timing, and location, it d
 * High crime frequency during midday and early evening aligns with typical lunch and dinner hours, which tend to bring higher foot traffic.   
 * Geographically, the Mission's status as the top hotspot is consistent with its high population density and status as one of SF's active nightlife and commercial corridors — conditions that tend to bring more people, transactions, and property into a concentrated area, and with that, more opportunity for crime.
 
-**7\. Visuals**
+### **7\. Visuals**
 
 ### **8\. Conclusion / Recommendations**
 
