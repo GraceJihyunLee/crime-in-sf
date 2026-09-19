@@ -3,7 +3,7 @@
 **San Francisco Crime Analysis (2018)**  
 Exploring 2018 crime patterns across San Francisco (SF) to provide insights and inform public safety recommendations
 
-#### **1\. Project Overview**:
+#### **1\. Project Overview**
 
 Crime report data is a powerful lens for understanding how a city functions day-to-day — where risk concentrates, when it spikes, and how effectively it's addressed. As a mid-cycle project for the COOP Careers Data Analyst Fellowship, I worked in a team of four to explore crime patterns across San Francisco in 2018 through exploratory analysis and data visualization. Using Excel for data cleaning and preparation and Tableau for visualization, we investigated how crime varied by neighborhood, time of day/year, and offense type, along with the consistency of case resolution — producing a set of dashboards that make these patterns easy to explore and interpret at a glance.
 
@@ -11,7 +11,7 @@ Crime report data is a powerful lens for understanding how a city functions day-
 
 Our objective was to analyze 2018 San Francisco crime data to understand underlying patterns — spatially, temporally, and by offense type — to inform recommendations on resource allocation and public safety planning.
 
-#### **3\. Dataset:**
+#### **3\. Dataset**
 
 *Source*: [San Francisco Crime Reports Data (Cleaned)](https://www.kaggle.com/datasets/jihyun81/2018-san-francisco-crime-reports-data/data) 
 
