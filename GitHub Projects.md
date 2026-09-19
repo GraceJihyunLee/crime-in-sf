@@ -3,15 +3,15 @@
 **San Francisco Crime Analysis (2018)**  
 Exploring 2018 crime patterns across San Francisco (SF) to provide insights and inform public safety recommendations
 
-**1\. Project Overview**:
+#### **1\. Project Overview**:
 
 Crime report data is a powerful lens for understanding how a city functions day-to-day — where risk concentrates, when it spikes, and how effectively it's addressed. As a mid-cycle project for the COOP Careers Data Analyst Fellowship, I worked in a team of four to explore crime patterns across San Francisco in 2018 through exploratory analysis and data visualization. Using Excel for data cleaning and preparation and Tableau for visualization, we investigated how crime varied by neighborhood, time of day/year, and offense type, along with the consistency of case resolution — producing a set of dashboards that make these patterns easy to explore and interpret at a glance.
 
-**2\. Objective**
+#### **2\. Objective**
 
 Our objective was to analyze 2018 San Francisco crime data to understand underlying patterns — spatially, temporally, and by offense type — to inform recommendations on resource allocation and public safety planning.
 
-**3\. Dataset:**
+#### **3\. Dataset:**
 
 *Source*: [San Francisco Crime Reports Data (Cleaned)](https://www.kaggle.com/datasets/jihyun81/2018-san-francisco-crime-reports-data/data) 
 
@@ -19,7 +19,7 @@ Originally sourced from the [City of San Francisco's public open data portal](ht
 
 *Size/Scope*: The raw dataset contained 27 columns and 153,000+ rows. After data cleaning, this was refined to 120,000+ unique incident reports used for analysis.
 
-**4\. Methodology**
+#### **4\. Methodology**
 
 **Process Overview:** We first defined the business problem, then cleaned and transformed the data before moving into analysis and interpretation. From there, we developed possible recommendations based on our findings and presented them to conclude the project.
 
@@ -42,11 +42,11 @@ While working with the dataset, we noted several limitations that shaped how we 
 
 **Tools Used:** Excel (data cleaning & preparation), Tableau (visualization)
 
-**5\. My Role**
+#### **5\. My Role**
 
 I led the spatial and temporal analysis — mapping crime distribution across SF neighborhoods and police districts, and identifying trends by time of day, day of week, and month. I also helped oversee the project more broadly, staying closely involved in the crime-type and case-resolution work to support the team and fully grasp every part of the analysis.
 
-**6\. Key Findings**
+#### **6\. Key Findings**
 
 Our analysis surfaced several clear patterns across crime type, timing, and location:
 
@@ -98,7 +98,7 @@ This chart shows the distribution of reported incidents across each day of the w
 
 This chart shows the distribution of reported incidents across each hour of the day. Activity peaked around 12 PM and 6 PM, aligning with typical lunch and dinner hours when foot traffic tends to be higher.
 
-### **8\. Conclusion / Recommendations**
+#### **8\. Conclusion / Recommendations**
 
 Larceny theft emerged as the dominant crime category in this dataset, confirming that property-related crime is the primary public safety concern in San Francisco. Incidents peaked in August, with Fridays being the most active day of the week, and activity concentrated around 12–1 PM and 6–7 PM. Geographically, the Mission neighborhood stood out as the top hotspot, while Northern SF neighborhoods showed a disproportionate rate of larceny theft. Lastly, with 84% of cases still open or unresolved, the data also points to a meaningful gap in enforcement capacity.
 
@@ -109,7 +109,7 @@ Based on these findings, we recommend:
 * Scaling penalties to match crime severity to improve fairness and discourage repeat offenses  
 * Collecting more detailed data on victims and offenders to better identify patterns and support systematic crime prevention
 
-### **9\. Links**
+#### **9\. Links**
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/gracejihyunlee/viz/CrimeinSF_17750978005820/SanFranciscoCrimePatterns#1)
 
