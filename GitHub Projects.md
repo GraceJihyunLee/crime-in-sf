@@ -66,7 +66,7 @@ While the dataset shows clear patterns in crime type, timing, and location, it d
 * High crime frequency during midday and early evening aligns with typical lunch and dinner hours, which tend to bring higher foot traffic.   
 * Geographically, the Mission's status as the top hotspot is consistent with its high population density and status as one of SF's active nightlife and commercial corridors — conditions that tend to bring more people, transactions, and property into a concentrated area, and with that, more opportunity for crime.
 
-### **7\. Visuals**
+#### **7\. Visuals**
 
 **Incidents by Police District**
 
