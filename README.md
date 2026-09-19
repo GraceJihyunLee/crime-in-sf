@@ -70,31 +70,31 @@ While the dataset shows clear patterns in crime type, timing, and location, it d
 
 **Incidents by Police District**
 
-![Incidents by Police District](images/Police District Concentration.png) 
+![Incidents by Police District](images/concentration-police-district.png) 
 
 This map shows the distribution of reported incidents across San Francisco's police districts. The Central District recorded the highest number of incidents, though district assignment reflects officer location rather than the exact site of the incident.
 
 **Incidents by Neighborhood**
 
-![Incidents by Neighborhood](images/Neighborhood Concentration.png)
+![Incidents by Neighborhood](images/concentration-neighborhood.png)
 
 This map shows incident concentration across San Francisco neighborhoods. The Mission emerged as the top hotspot, recording the highest number of incidents of any neighborhood.
 
 **Incidents by Month**
 
-![Incidents by Month](images/Distribution by Month.png)
+![Incidents by Month](images/distribution-month.png)
 
 This chart shows the distribution of reported incidents by month. August recorded the highest incident volume of any month in 2018\.
 
 **Incidents by Day of Week**
 
-![Incidents by Day of Week](images/Distribution by Day  of Week.png)
+![Incidents by Month](images/distribution-day-of-week.png)
 
 This chart shows the distribution of reported incidents across each day of the week. Friday recorded the highest incident volume, consistent with increased social activity at the start of the weekend.
 
 **Incidents by Hour of Day**
 
-![Incidents by Hour of Day](images/Distribution by Hour.png)
+![Incidents by Month](images/distribution-hour.png)
 
 This chart shows the distribution of reported incidents across each hour of the day. Activity peaked around 12 PM and 6 PM, aligning with typical lunch and dinner hours when foot traffic tends to be higher.
 
