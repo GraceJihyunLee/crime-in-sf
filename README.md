@@ -1,25 +1,25 @@
-# Data Visualization Project - 2018 San Francisco Crime Analysis
+**Data Visualization Project \- 2018 San Francisco Crime Analysis** 
 
-### **San Francisco Crime Analysis (2018)**  
+**San Francisco Crime Analysis (2018)**  
 Exploring 2018 crime patterns across San Francisco (SF) to provide insights and inform public safety recommendations
 
-### **1\. Project Overview**:
+#### **1\. Project Overview**:
 
-Crime report data is a powerful lens for understanding how a city functions day-to-day — where risk concentrates, when it spikes, and how effectively it's addressed. As a mid-cycle project for the COOP Careers Data Analyst Fellowship, I worked in a team of four to explore crime patterns across San Francisco in 2018 through exploratory analysis and data visualization. Using Excel for data cleaning and preparation and Tableau for visualization, we investigated how crime varied by neighborhood, time of day/year, and offense type, along with consistency of case resolution — producing a set of dashboards that make these patterns easy to explore and interpret at a glance.
+Crime report data is a powerful lens for understanding how a city functions day-to-day — where risk concentrates, when it spikes, and how effectively it's addressed. As a mid-cycle project for the COOP Careers Data Analyst Fellowship, I worked in a team of four to explore crime patterns across San Francisco in 2018 through exploratory analysis and data visualization. Using Excel for data cleaning and preparation and Tableau for visualization, we investigated how crime varied by neighborhood, time of day/year, and offense type, along with the consistency of case resolution — producing a set of dashboards that make these patterns easy to explore and interpret at a glance.
 
-### **2\. Objective**
+#### **2\. Objective**
 
 Our objective was to analyze 2018 San Francisco crime data to understand underlying patterns — spatially, temporally, and by offense type — to inform recommendations on resource allocation and public safety planning.
 
-### **3\. Dataset:**
+#### **3\. Dataset:**
 
-*Source*: \[link\]
+*Source*: [San Francisco Crime Reports Data (Cleaned)](https://www.kaggle.com/datasets/jihyun81/2018-san-francisco-crime-reports-data/data) 
 
 Originally sourced from the [City of San Francisco's public open data portal](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/data_preview), the dataset was provided to us by COOP Careers as a consolidated version filtered to 2018 crime records only.
 
 *Size/Scope*: The raw dataset contained 27 columns and 153,000+ rows. After data cleaning, this was refined to 120,000+ unique incident reports used for analysis.
 
-### **4\. Methodology**
+#### **4\. Methodology**
 
 **Process Overview:** We first defined the business problem, then cleaned and transformed the data before moving into analysis and interpretation. From there, we developed possible recommendations based on our findings and presented them to conclude the project.
 
@@ -42,11 +42,11 @@ While working with the dataset, we noted several limitations that shaped how we 
 
 **Tools Used:** Excel (data cleaning & preparation), Tableau (visualization)
 
-### **5\. My Role**
+#### **5\. My Role**
 
 I led the spatial and temporal analysis — mapping crime distribution across SF neighborhoods and police districts, and identifying trends by time of day, day of week, and month. I also helped oversee the project more broadly, staying closely involved in the crime-type and case-resolution work to support the team and fully grasp every part of the analysis.
 
-### **6\. Key Findings**
+#### **6\. Key Findings**
 
 Our analysis surfaced several clear patterns across crime type, timing, and location:
 
@@ -66,17 +66,53 @@ While the dataset shows clear patterns in crime type, timing, and location, it d
 * High crime frequency during midday and early evening aligns with typical lunch and dinner hours, which tend to bring higher foot traffic.   
 * Geographically, the Mission's status as the top hotspot is consistent with its high population density and status as one of SF's active nightlife and commercial corridors — conditions that tend to bring more people, transactions, and property into a concentrated area, and with that, more opportunity for crime.
 
-### **7\. Visuals**
+#### **7\. Visuals**
 
-### **8\. Conclusion / Recommendations**
+**Incidents by Police District**
+
+\[image placeholder\]
+
+This map shows the distribution of reported incidents across San Francisco's police districts. The Central District recorded the highest number of incidents, though district assignment reflects officer location rather than the exact site of the incident.
+
+**Incidents by Neighborhood**
+
+\[image placeholder\]
+
+This map shows incident concentration across San Francisco neighborhoods. The Mission emerged as the top hotspot, recording the highest number of incidents of any neighborhood.
+
+**Incidents by Month**
+
+\[image placeholder\]
+
+This chart shows the distribution of reported incidents by month. August recorded the highest incident volume of any month in 2018\.
+
+**Incidents by Day of Week**
+
+\[image placeholder\]
+
+This chart shows the distribution of reported incidents across each day of the week. Friday recorded the highest incident volume, consistent with increased social activity at the start of the weekend.
+
+**Incidents by Hour of Day**
+
+\[image placeholder\]
+
+This chart shows the distribution of reported incidents across each hour of the day. Activity peaked around 12 PM and 6 PM, aligning with typical lunch and dinner hours when foot traffic tends to be higher.
+
+#### **8\. Conclusion / Recommendations**
 
 Larceny theft emerged as the dominant crime category in this dataset, confirming that property-related crime is the primary public safety concern in San Francisco. Incidents peaked in August, with Fridays being the most active day of the week, and activity concentrated around 12–1 PM and 6–7 PM. Geographically, the Mission neighborhood stood out as the top hotspot, while Northern SF neighborhoods showed a disproportionate rate of larceny theft. Lastly, with 84% of cases still open or unresolved, the data also points to a meaningful gap in enforcement capacity.
 
-Based on these findings, we recommended:
+Based on these findings, we recommend:
 
 * Increasing police presence in high-crime neighborhoods, particularly in Northern San Francisco  
 * Strengthening community watch programs in high-volume crime areas  
 * Scaling penalties to match crime severity to improve fairness and discourage repeat offenses  
 * Collecting more detailed data on victims and offenders to better identify patterns and support systematic crime prevention
 
-### **9\. Links**
+#### **9\. Links**
+
+[Tableau Dashboard](https://public.tableau.com/app/profile/gracejihyunlee/viz/CrimeinSF_17750978005820/SanFranciscoCrimePatterns#1)
+
+[Project Presentation Slides](https://drive.google.com/file/d/1Lc2QLcOThgILK-skRqWpfXw9y5hEMNbn/view?usp=sharing)
+
+[Project One-pager](https://drive.google.com/file/d/1RxvoakTVnQsFjHv9GpT7aR-pWRCAd2Lp/view?usp=sharing)
